@@ -3,8 +3,8 @@ import hashlib
 import struct
 from datetime import datetime
 
-BOT_TOKEN = ""
-ADMIN_ID = 6993504486
+BOT_TOKEN = "8546652130:AAEt53huxxOCqLE9PwjSQhA2Kga140A-jR8"
+ADMIN_ID = 8394780963
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
